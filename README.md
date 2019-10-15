@@ -28,3 +28,5 @@
 7. Student Interview: Part 1
 8. Main App Anatomy
 9. Exercise 01: Hello Android
+10. Exercise 02: Adding the Button
+
