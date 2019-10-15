@@ -34,3 +34,5 @@
 13. Exercise 05: Change the Text
 14. Exercise 06: Adding the Image
 15. Exercise 07: Adding the ImageView
+16. Exercise 08: Finding Views efficiently
+17. Exercise 09: Vector Drawables
