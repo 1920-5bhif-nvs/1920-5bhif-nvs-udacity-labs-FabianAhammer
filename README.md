@@ -31,3 +31,5 @@
 10. Exercise 02: Adding the Button
 11. Exercise 03: findViewById
 12. Exercise 04: onClickListener
+13. Exercise 05: Change the Text
+14. 
