@@ -30,3 +30,4 @@
 9. Exercise 01: Hello Android
 10. Exercise 02: Adding the Button
 11. Exercise 03: findViewById
+12. Exercise 04: onClickListener
