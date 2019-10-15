@@ -27,4 +27,4 @@
 6. Running Your First App <Emulator>
 7. Student Interview: Part 1
 8. Main App Anatomy
-
+9. Exercise 01: Hello Android
