@@ -20,3 +20,8 @@
 2. Dice Roller
 3. <skipped> Installing Android Studio
 4. Creating Dice Roller Project 
+5. ~~Running Your First App <Phone>~~
+   - There is no ADP Driver for the Xiaomi Mi A1 (European Version), so USB Debugging is not working 
+     -> No Deploying
+6. Running Your First App <Emulator>
+7. 
