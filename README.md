@@ -16,4 +16,7 @@
 
 #### Lesson 1
 
-- 1. Welcome to Developing Android
+1. Welcome to Developing Android
+2. Dice Roller
+3. <skipped> Installing Android Studio
+4. Creating Dice Roller Project 
