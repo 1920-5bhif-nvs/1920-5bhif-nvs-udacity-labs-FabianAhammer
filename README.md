@@ -32,4 +32,4 @@
 11. Exercise 03: findViewById
 12. Exercise 04: onClickListener
 13. Exercise 05: Change the Text
-14. 
+14. Exercise 06: Adding the Image

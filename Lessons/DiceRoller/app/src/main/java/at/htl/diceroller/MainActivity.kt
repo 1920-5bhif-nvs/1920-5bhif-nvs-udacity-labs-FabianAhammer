@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val rollBtn: Button = findViewById(R.id.roll_button)
-        rollBtn.text= "Lets Roll";
+        rollBtn.text= "Lets Roll"
         rollBtn.setOnClickListener{
             rollDice()
         }
