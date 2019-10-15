@@ -25,4 +25,4 @@
      -> No Deploying
    - Fixed after translating the Chinese Xiaomi Page to English [Link](<http://www.mediafire.com/file/vuwg5k4ut428h78/adb-setup-1.4.3.exe/file>)
 6. Running Your First App <Emulator>
-7. 
+7. Student Interview: Part 1
