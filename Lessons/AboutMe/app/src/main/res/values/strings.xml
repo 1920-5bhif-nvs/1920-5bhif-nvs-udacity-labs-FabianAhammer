@@ -2,4 +2,30 @@
     <string name="app_name">About Me</string>
     <string name="name">Fabian Ahammer</string>
     <string name="yellow_star">Yellow start</string>
+    <string name="bio">
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, \n
+        sed diam nonumy eirmod tempor invidunt \n
+        ut labore et dolore magna aliquyam erat, \n
+        sed diam voluptua. At vero eos et accusam \n
+        et justo duo dolores et ea rebum. \n
+        Stet clita kasd gubergren, no sea takimata \n
+        sanctus est Lorem ipsum dolor sit amet. \n
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr.\n
+         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, \n
+        sed diam nonumy eirmod tempor invidunt \n
+        ut labore et dolore magna aliquyam erat, \n
+        sed diam voluptua. At vero eos et accusam \n
+        et justo duo dolores et ea rebum. \n
+        Stet clita kasd gubergren, no sea takimata \n
+        sanctus est Lorem ipsum dolor sit amet. \n
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr.\n
+         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, \n
+        sed diam nonumy eirmod tempor invidunt \n
+        ut labore et dolore magna aliquyam erat, \n
+        sed diam voluptua. At vero eos et accusam \n
+        et justo duo dolores et ea rebum. \n
+        Stet clita kasd gubergren, no sea takimata \n
+        sanctus est Lorem ipsum dolor sit amet. \n
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr.\n
+    </string>
 </resources>
