@@ -4,7 +4,9 @@
 
 [Kurs](<https://classroom.udacity.com/courses/ud9012>)
 
-[Lesson 1](<https://classroom.udacity.com/courses/ud9012/lessons/37a8fa57-7d18-4704-bfb7-da2864cb2e75/concepts/e1a098b4-d786-4a74-b3f9-bd73c1ac62db>)
+[Lesson 1 - Contents](#lesson1)          [Kurs-Link](<https://classroom.udacity.com/courses/ud9012/lessons/37a8fa57-7d18-4704-bfb7-da2864cb2e75/concepts/e1a098b4-d786-4a74-b3f9-bd73c1ac62db>)
+
+[Lesson 2](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/c5073cbd-df85-45b2-b59e-2ca9379968c4)
 
 
 
@@ -12,9 +14,7 @@
 
 
 
-
-
-#### Lesson 1
+#### <a name="lesson1"></a>Lesson 1
 
 1. Welcome to Developing Android
 2. Dice Roller
@@ -36,3 +36,7 @@
 15. Exercise 07: Adding the ImageView
 16. Exercise 08: Finding Views efficiently
 17. Exercise 09: Vector Drawables
+
+
+
+#### Lesson 2
