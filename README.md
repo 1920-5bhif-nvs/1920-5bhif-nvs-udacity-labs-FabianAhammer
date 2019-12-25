@@ -8,7 +8,7 @@
 
 ​	[Kurs-Link](<https://classroom.udacity.com/courses/ud9012/lessons/37a8fa57-7d18-4704-bfb7-da2864cb2e75/concepts/e1a098b4-d786-4a74-b3f9-bd73c1ac62db>)
 
-(Lesson 2- Contents)[#lesson2]
+[Lesson 2- Contents](#lesson2)
 
 ​	[Kurs-Link](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/c5073cbd-df85-45b2-b59e-2ca9379968c4)
 
@@ -45,4 +45,33 @@
 
 #### <a name="lesson2"></a>Lesson 2
 
-1. 
+1. [Art with Aleks](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/2192ccb0-e32c-4df3-8d69-b256879d9d05)
+2. [ Introduction](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/2a6e690f-86b6-4795-84f7-1912b8d7f59e)
+3. [ View Groups & View Hierarchy](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/3ffa3f55-01e8-419c-bd40-3c6a65277664)
+4. [ Exercise: Create the AboutMe Project](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/1bf9362f-d52e-45aa-8349-bc41d0b066b3)
+5. [ Exercise: Create the Layout File](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/c5073cbd-df85-45b2-b59e-2ca9379968c4)
+6. [ Layout Editor Basics](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/901c764d-e6c8-48ee-8781-54b28682ea7c)
+7. [Adding a TextView](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/0dd0d980-2931-488e-8f6c-36b03f357ac1)
+8. [Styling a TextView](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/6efde730-a337-4d8e-b295-659d116fe9b8)
+9. [Exercise: Add a TextView, ImageView, and Styling](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/0b355519-28d1-4965-b9be-50cdb1a8120a)
+10. [Exercise: Add a ScrollView](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/f9f9b755-a2f8-4aaa-9d9e-3bfe32a97007)
+11. [Adding an EditText for Text Input](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/e1ccb267-a68a-4aef-bd88-3f92ba83b22c)
+12. [Adding a Done Button to Accept Text Input](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/2e446b79-7ec5-4a48-b639-af94ac33c6c8)
+13. [Exercise: Add EditText, Done Button, ClickHandler](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/af274b02-172c-4ea0-b27b-c28592aff003)
+14. [Data Binding](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/c34fbeb0-95fa-479c-b75b-2dedbf80b01e)
+15. [Data Binding: Views](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/68b85cff-8813-496b-86ba-57ed352d8bcf)
+16. [Data Binding: Data](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/68f0a220-8b33-43fa-be12-1110578a0e1b)
+17. [Exercise: Implement Data Binding](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/a39e5191-f206-43a4-b293-3f1d6f6a6549)
+18. [Google Interview: John Hoford and Nicolas Roard](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/83b1ffe5-741e-4861-8162-933239997434)
+19. [Constraint Layout: ColorMyViews App](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/78afe3c2-8a78-45b8-886a-2cfc5c014be8)
+20. [Creating ColorMyViews Project](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/ebd3a709-9422-46bd-9c31-270533adaa60)
+21. [Exercise: Create ColorMyViews Project and One Box](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/152b8298-d6b3-4b29-8edd-1ce13c7c96a6)
+22. [Constraints](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/de811d57-52eb-4ee1-ad24-d793978c5626)
+23. [Ratios](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/bac52583-afe0-4992-af4b-38b250d80600)
+24. [Chaining](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/6b1ec7e1-f3d9-42c5-a593-29da5f06bfc6)
+25. [Adding Box Two Below Box One](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/8cf364b4-b151-4581-a035-ef205c386fce)
+26. [Adding Three Aligned Boxes](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/0eb5aa1a-6e27-46c6-aeeb-0058c6885076)
+27. [Exercise: Add Aligned Boxes with Click Handlers](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/354bc4f7-7049-405e-ae98-770da538962c)
+28. [Baseline Constraint](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/585401d7-e6bc-4b12-b7cf-165b29e4a2ad)
+29. [Exercise: Add Baseline Constraint and Button Chain](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/4ccb9729-4d0f-4be4-ac39-0502c3fedd65)
+30. [Where to Go Next?](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/13f9d538-7473-4a19-a791-eff4e67e6467)
