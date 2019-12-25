@@ -28,4 +28,7 @@
         sanctus est Lorem ipsum dolor sit amet. \n
         Lorem ipsum dolor sit amet, consetetur sadipscing elitr.\n
     </string>
+    <string name="nick_hint">What is your Nickname?</string>
+    <string name="nick_text"></string>
+    <string name="done">Done</string>
 </resources>
