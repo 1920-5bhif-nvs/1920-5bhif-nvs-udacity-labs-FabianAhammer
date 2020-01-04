@@ -1,20 +1,25 @@
 # Android Apps - Udacity Course
 
+*Ahammer Fabian*
+
 ### Overview
 
+**Status**
+
+:white_check_mark::white_check_mark::black_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
+
+- [x] [Lesson 1](#lesson1)		[:page_facing_up:](<https://classroom.udacity.com/courses/ud9012/lessons/37a8fa57-7d18-4704-bfb7-da2864cb2e75/concepts/e1a098b4-d786-4a74-b3f9-bd73c1ac62db>)
+- [x] [Lesson 2](#lesson2)		[:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/c5073cbd-df85-45b2-b59e-2ca9379968c4)
+- [x] [Lesson 3](#lesson3)		[:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/5bf1334b-e0cb-40ef-bfd0-7d09a32920e2)
+- [ ] Lesson 4
+- [ ] Lesson 5
+- [ ] Lesson 6
+- [ ] Lesson 7
+- [ ] Lesson 8
+- [ ] Lesson 9
+- [ ] Lesson 10
+
 [Kurs](<https://classroom.udacity.com/courses/ud9012>)
-
-[Lesson 1 - Contents](#lesson1)
-
-​	[Kurs-Link](<https://classroom.udacity.com/courses/ud9012/lessons/37a8fa57-7d18-4704-bfb7-da2864cb2e75/concepts/e1a098b4-d786-4a74-b3f9-bd73c1ac62db>)
-
-[Lesson 2- Contents](#lesson2)
-
-​	[Kurs-Link](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/c5073cbd-df85-45b2-b59e-2ca9379968c4)
-
-
-
-
 
 
 
@@ -75,3 +80,37 @@
 28. [Baseline Constraint](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/585401d7-e6bc-4b12-b7cf-165b29e4a2ad)
 29. [Exercise: Add Baseline Constraint and Button Chain](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/4ccb9729-4d0f-4be4-ac39-0502c3fedd65)
 30. [Where to Go Next?](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/13f9d538-7473-4a19-a791-eff4e67e6467)
+
+
+
+#### <a name="lesson3"></a>Lesson 3
+
+1. [ The Guide and the Traveler](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/5bf1334b-e0cb-40ef-bfd0-7d09a32920e2)
+2. [Android Navigation Patterns](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/79ec9929-b63b-4d26-b3a8-c8186cf69a1f)
+3. [Quiz: Navigation Terms](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/8d885562-f6a6-4e31-acfe-b1878804a7b5)
+4. [Fragments](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/d640c6d1-6ffb-46a4-80ac-91ac2b0bba1a)
+5. [Quiz: Fragment Basics](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/fd349b42-3978-4efd-94af-c860e2e1da66)
+6. [Exercise: Project Tour](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/9bfc90da-6173-4825-ab64-3d94b92df26c)
+7. [Exercise: Creating and Adding a Fragment](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/cda040dc-4139-4027-b8ee-d8119d451291)
+8. [Navigation Component](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/d6d0f3cc-6683-4b2d-b97e-5ac2c0495103)
+9. [Exercise: Let’s Navigate Already](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/bff4e771-2725-4f93-a31a-28c13de6a80f)
+10. [Principles of Navigation](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/496e7946-64d0-45f9-9248-5746689c0d65)
+11. [Exercise: Conditional Navigation](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/24f563d9-7f5c-4150-977d-a3fd590c6382)
+12. [Exercise: Back Stack Manipulation](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/43ef25c1-2694-462c-8864-10ed7531c05a)
+13. [Quiz: Back Stack Manipulation](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/d2212a69-41c3-4e3a-85d4-a9551c7f0412)
+14. [Exercise: Adding Support for the Up Button](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/ce4e1985-1701-40ba-89cb-2c3f2bacd70a)
+15. [Quiz: Android Navigation - Up vs Back](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/261ecb55-1348-4ab3-b87a-4106a2e0837f)
+16. [Google Interview: Ian Lake](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/40ff6bbc-210b-431b-bf29-d584c8ca7ca3)
+17. [Exercise: Adding a Menu](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/a92ca36a-facc-45f5-9199-a63a6f8fed33)
+18. [Quiz: Matching Menu Attributes](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/b43b1260-90a0-4f9b-8191-b19fd8bb5e0d)
+19. [Exercise: Adding Safe Arguments](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/e8ecc9a9-b393-4df2-bb5c-72827cc083a4)
+20. [Quiz: Why do we have Safe Arguments?](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/0d9de3ea-ecdc-4754-9c89-69d752b47a92)
+21. [Intents and Sharing](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/7a989cc0-8e9f-48c2-9ea6-ca9228117184)
+22. [Quiz: Explicit vs Implicit Intents](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/0aba3697-b010-4540-a848-f03525ee18c1)
+23. [Exercise: Adding Sharing with an Intent](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/54243e22-2cc5-4763-9187-95eb0b73ef8c)
+24. [Exercise: Adding the Navigation Drawer](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/ef601b10-c5c1-4878-9c67-3f1493da1697)
+25. [Summary of Navigation](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/78b7f507-89c5-42b3-b9fa-c1af3d65eeee)
+26. [Quiz: How to Navigate](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/a8f0470a-193a-4a52-84b7-8cf8d08c581f)
+27. [Exercise: Using Navigation Listeners](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/5b69515a-6403-470b-b0f5-a3cc9d34312d)
+28. [Exercise: Animation with Navigation](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/94989f06-d7b6-46cd-91d9-cd7ffe37e4d9)
+29. [Quiz: Animation Attributes](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/0209d295-bf97-41f7-a60c-aa8921b383a6)
