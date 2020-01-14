@@ -18,6 +18,7 @@ package com.example.android.dessertpusher
 
 import android.content.ActivityNotFoundException
 import android.os.Bundle
+import android.os.PersistableBundle
 import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
@@ -28,11 +29,15 @@ import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.LifecycleObserver
 import com.example.android.dessertpusher.databinding.ActivityMainBinding
 import timber.log.Timber
-
+const val KEY_REVENUE = "revenue"
+const val KEY_AMOUNT = "amount"
+const val KEY_TIMER = "timer"
 class MainActivity : AppCompatActivity(), LifecycleObserver {
+
 
     private var revenue = 0
     private var dessertsSold = 0
+
     private lateinit var timer: DessertTimer
 
     // Contains all the views
@@ -75,7 +80,13 @@ class MainActivity : AppCompatActivity(), LifecycleObserver {
         binding.dessertButton.setOnClickListener {
             onDessertClicked()
         }
+        timer = DessertTimer(this.lifecycle)
 
+        if(savedInstanceState != null) {
+            revenue = savedInstanceState.getInt(KEY_REVENUE)
+            dessertsSold = savedInstanceState.getInt(KEY_AMOUNT)
+            timer.secondsCount = savedInstanceState.getInt(KEY_TIMER)
+        }
         // Set the TextViews to the right values
         binding.revenue = revenue
         binding.amountSold = dessertsSold
@@ -83,8 +94,13 @@ class MainActivity : AppCompatActivity(), LifecycleObserver {
         // Make sure the correct dessert is showing
         binding.dessertButton.setImageResource(currentDessert.imageId)
 
-        timer = DessertTimer(this.lifecycle)
 
+
+    }
+
+    override fun onRestoreInstanceState(savedInstanceState: Bundle) {
+        super.onRestoreInstanceState(savedInstanceState)
+        revenue = savedInstanceState.getInt("revenue")
     }
 
     override fun onStart() {
@@ -184,5 +200,13 @@ class MainActivity : AppCompatActivity(), LifecycleObserver {
             R.id.shareMenuButton -> onShare()
         }
         return super.onOptionsItemSelected(item)
+    }
+
+    override fun onSaveInstanceState(outState: Bundle) {
+        super.onSaveInstanceState(outState)
+        outState.putInt(KEY_REVENUE,revenue)
+        outState.putInt(KEY_AMOUNT,dessertsSold)
+        outState.putInt(KEY_TIMER,timer.secondsCount)
+        Timber.i("SaveInstance")
     }
 }
