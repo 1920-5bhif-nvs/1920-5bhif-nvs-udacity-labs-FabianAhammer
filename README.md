@@ -6,12 +6,12 @@
 
 **Status**
 
-:white_check_mark::white_check_mark::white_check_mark::black_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
+:white_check_mark::white_check_mark::white_check_mark::white_check_mark::black_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
 
 - [x] [Lesson 1](#lesson1)		[:page_facing_up:](<https://classroom.udacity.com/courses/ud9012/lessons/37a8fa57-7d18-4704-bfb7-da2864cb2e75/concepts/e1a098b4-d786-4a74-b3f9-bd73c1ac62db>)
 - [x] [Lesson 2](#lesson2)		[:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/c5073cbd-df85-45b2-b59e-2ca9379968c4)
 - [x] [Lesson 3](#lesson3)		[:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/5bf1334b-e0cb-40ef-bfd0-7d09a32920e2)
-- [ ] Lesson 4
+- [x] [Lesson 4](#lesson4)		[:page_facing_up:]( https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/6a155d63-8153-4a56-95cb-1dfdf06aa173 )
 - [ ] Lesson 5
 - [ ] Lesson 6
 - [ ] Lesson 7
@@ -114,3 +114,30 @@
 27. [Exercise: Using Navigation Listeners](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/5b69515a-6403-470b-b0f5-a3cc9d34312d)
 28. [Exercise: Animation with Navigation](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/94989f06-d7b6-46cd-91d9-cd7ffe37e4d9)
 29. [Quiz: Animation Attributes](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/0209d295-bf97-41f7-a60c-aa8921b383a6)
+
+
+
+
+
+#### <a name="lesson4"></a>Lesson 4
+
+1. [The Case of the Missing Data](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/6a155d63-8153-4a56-95cb-1dfdf06aa173)
+2. [Why Track Activity State?](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/d63c1a1f-b610-49ca-9092-648b4e145779)
+3. [Exercise: Introduction to the Activity Lifecycle Diagram](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/163bcf64-f2b0-44b8-8005-a2444c006c75)
+4. [Exercise: Introduction to Logging](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/1732d980-5171-4d4c-beae-c569c41c5684)
+5. [Exercise: The Application Class and Timber](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/07a839fd-1afc-4945-82ed-039b876a49c4)
+6. [Lifecycle: Open and Close](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/392294da-0c73-46db-9762-f72366ad605c)
+7. [Lifecycle: Share dialog](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/9c191996-c2ef-496b-ab9f-dc6df7732ac5)
+8. [onCreate vs onStart](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/f859947a-c983-4ed9-b159-1babe282a110)
+9. [Activity Lifecycle States and Callbacks Summary](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/4c1503f9-2de5-45ea-88ae-2138b0482ecc)
+10. [Lifecycle: Navigate Away](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/68e04b2a-fd17-4c92-8d17-4f7b76d8bc15)
+11. [Google Interview: Dianne Hackborn](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/5181b083-f464-481d-bc0b-db34fb9ec301)
+12. [Exercise: Setup and Teardown](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/dea095ac-29a5-4c11-aeaf-f2ba3f8849e0)
+13. [Introduction to the Lifecycle Library](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/527dc024-4431-4ad0-a567-2512eca12b45)
+14. [Exercise: Lifecycle Observation](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/425cffb4-077b-439b-b09d-ebc5787675e8)
+15. [Process Shutdown](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/3ba2e053-449f-4332-93a6-b64b18bec5ca)
+16. [Process Shutdown Demo](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/e4cd2aa2-4b5f-423a-bc85-c76d660c774b)
+17. [Exercise: onSaveInstanceState](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/8e34c6bd-a0ac-46d7-9f53-b3fbf9ffdbf2)
+18. [Configuration Changes](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/a1f01fc8-2482-4d24-bf3f-c52eb071093f)
+19. [The Future of Lifecycles](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/bb39ea3d-f5bb-427d-8207-a731369c201e)
+
