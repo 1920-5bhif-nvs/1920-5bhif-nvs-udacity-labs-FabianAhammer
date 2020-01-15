@@ -6,13 +6,13 @@
 
 **Status**
 
-:white_check_mark::white_check_mark::white_check_mark::white_check_mark::black_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
+:white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::black_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
 
 - [x] [Lesson 1](#lesson1)		[:page_facing_up:](<https://classroom.udacity.com/courses/ud9012/lessons/37a8fa57-7d18-4704-bfb7-da2864cb2e75/concepts/e1a098b4-d786-4a74-b3f9-bd73c1ac62db>)
 - [x] [Lesson 2](#lesson2)		[:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/c5073cbd-df85-45b2-b59e-2ca9379968c4)
 - [x] [Lesson 3](#lesson3)		[:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/5bf1334b-e0cb-40ef-bfd0-7d09a32920e2)
 - [x] [Lesson 4](#lesson4)		[:page_facing_up:]( https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/6a155d63-8153-4a56-95cb-1dfdf06aa173 )
-- [ ] Lesson 5
+- [x] [Lesson 5](#lesson5)		[:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/bf448bba-9989-40fb-808f-4cc66f79c10e )
 - [ ] Lesson 6
 - [ ] Lesson 7
 - [ ] Lesson 8
@@ -141,3 +141,32 @@
 18. [Configuration Changes](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/a1f01fc8-2482-4d24-bf3f-c52eb071093f)
 19. [The Future of Lifecycles](https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/bb39ea3d-f5bb-427d-8207-a731369c201e)
 
+
+#### <a name="lesson5"></a>Lesson 5
+1. [Architecting on the Fly](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/bf448bba-9989-40fb-808f-4cc66f79c10e)
+2. [Lesson Introduction](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/826d328c-1a89-48dc-a60d-71f5ea625dea)
+3. [Exercise: Tour of the App](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/b3af9969-f665-4ae0-bf97-789a08d5fa5c)
+4. [Where the App Falls Short](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/1b5a1fb6-3e55-47a1-912c-f93affd1792e)
+5. [What is Architecture](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/30457e7f-15ac-4431-a044-dfdc8a453257)
+6. [Our App Architecture](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/9cc1a2ca-67bd-45b8-b4a2-f2408b4b5ffa)
+7. [ViewModel](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/905496c6-33dd-40c4-98fb-7b5afbb18d48)
+8. [Exercise: Create the GameViewModel](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/b9b633fe-41cd-400c-b246-18c40a3e56b9)
+9. [What Belongs in the GameViewModel?](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/9949f462-d209-4341-bdf3-919f5269b7ba)
+10. [Exercise: Populate the GameViewModel](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/11814f46-fa2a-4f04-ab64-33364015f366)
+11. [The Benefits of a Good Architecture](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/0453ed4c-3aea-46fe-976e-33e6c3118574)
+12. [The Power and Limits of the ViewModel](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/a1d96d83-a752-4c8a-b4bc-82d806c18d13)
+13. [LiveData](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/cf12397d-82fb-4e17-875c-0853f24f902b)
+14. [Exercise: Add LiveData to GameViewModel](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/c39f33bd-6383-4aaa-ad46-c5f9f9fcc72c)
+15. [Lifecycle Awareness](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/715c8997-b75e-48d3-a470-a178ffae4c8d)
+16. [Exercise: Add LiveData Encapsulation to GameViewModel](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/d6779adf-494a-484d-870c-1e054eabed11)
+17. [Event vs. State](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/ffe6a41f-0aef-4be4-b8f2-a37a2d606143)
+18. [Exercise: Add End Game Event](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/042750ac-ab7a-4ca8-9482-efc93766781f)
+19. [Google Interview: Yigit Boyar](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/beaae7a4-06f7-4b98-b55b-39324d38586f)
+20. [Adding a Timer](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/c6f11a2b-a93c-4847-b68f-63056f260d43)
+21. [Exercise: Add CountDownTimer](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/b50db352-8242-4446-b522-46baa751f5c5)
+22. [Exercise: Add a ViewModelFactory](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/d3f02043-88f0-4bb7-969d-5ca0e1541eca)
+23. [Exercise: Add ViewModel to Data Binding](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/9201a59b-f84d-419f-92ea-ab2cb4a09102)
+24. [Exercise: Add LiveData Data Binding](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/bf705842-884c-4197-966c-a0f56757b23a)
+25. [Exercise: LiveData Map Transformation](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/3476947d-bca6-4e21-9d63-c8db042d8beb)
+26. [Optional Exercise: Adding the Buzzer](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/ad0bdde0-2764-406f-9b29-2aada4fd8e9b)
+27. [Recap of Architecture and Lifecy](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/a62349b8-4c41-4eac-b9a7-21e577b3d82d)
