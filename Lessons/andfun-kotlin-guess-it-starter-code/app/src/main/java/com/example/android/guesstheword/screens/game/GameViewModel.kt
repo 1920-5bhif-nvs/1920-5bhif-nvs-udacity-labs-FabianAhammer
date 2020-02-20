@@ -26,6 +26,9 @@ class GameViewModel : ViewModel(){
     val word : LiveData<String>
         get() = _word
 
+    private val _currentTime = MutableLiveData<Long>()
+    val currentTime: LiveData<Long>
+        get() = _currentTime
 
     // The current score// internal
     private val _score = MutableLiveData<Int>()
@@ -41,7 +44,6 @@ class GameViewModel : ViewModel(){
     val gameFinished: LiveData<Boolean>
         get() = _gameFinished
 
-
     init {
         Log.i("GameViewModel","GameViewModel created!")
         resetList()
@@ -53,11 +55,12 @@ class GameViewModel : ViewModel(){
         timer = object : CountDownTimer(COUNTDOWN_TIME, ONE_SECOND) {
 
             override fun onTick(millisUntilFinished: Long) {
-                // TODO implement what should happen each tick of the timer
+                _currentTime.value = (millisUntilFinished / ONE_SECOND)
             }
 
             override fun onFinish() {
-                // TODO implement what should happen when the timer finishes
+                _currentTime.value = DONE
+                _gameFinished.value = true
             }
         }
         //DateUtils.formatElapsedTime()
