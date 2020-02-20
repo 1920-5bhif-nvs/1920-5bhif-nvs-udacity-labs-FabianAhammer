@@ -6,18 +6,18 @@
 
 **Status**
 
-:white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::black_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
+:white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::black_square_button::white_square_button::white_square_button::white_square_button:
 
 - [x] [Lesson 1](#lesson1)		[:page_facing_up:](<https://classroom.udacity.com/courses/ud9012/lessons/37a8fa57-7d18-4704-bfb7-da2864cb2e75/concepts/e1a098b4-d786-4a74-b3f9-bd73c1ac62db>)
 - [x] [Lesson 2](#lesson2)		[:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/c5073cbd-df85-45b2-b59e-2ca9379968c4)
 - [x] [Lesson 3](#lesson3)		[:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/7466f670-3d47-4b60-8f6a-0914ce58f9ad/concepts/5bf1334b-e0cb-40ef-bfd0-7d09a32920e2)
 - [x] [Lesson 4](#lesson4)		[:page_facing_up:]( https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/6a155d63-8153-4a56-95cb-1dfdf06aa173 )
 - [x] [Lesson 5](#lesson5)		[:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/bf448bba-9989-40fb-808f-4cc66f79c10e )
-- [ ] Lesson 6
-- [ ] Lesson 7
-- [ ] Lesson 8
-- [ ] Lesson 9
-- [ ] Lesson 10
+- [x] [Lesson 6](#lesson6)        [:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/b373beae-39a3-4aac-a6dc-aa92aa9960fc)
+- [ ] [Lesson 7](#lesson7)
+- [ ] [Lesson 8](#lesson8)
+- [ ] [Lesson 9](#lesson9)
+- [ ] [Lesson 10](#lesson10)
 
 [Kurs](<https://classroom.udacity.com/courses/ud9012>)
 
