@@ -6,7 +6,7 @@
 
 **Status**
 
-:white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::black_square_button::white_square_button::white_square_button::white_square_button:
+:white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::black_square_button::white_square_button::white_square_button:
 
 - [x] [Lesson 1](#lesson1)		[:page_facing_up:](<https://classroom.udacity.com/courses/ud9012/lessons/37a8fa57-7d18-4704-bfb7-da2864cb2e75/concepts/e1a098b4-d786-4a74-b3f9-bd73c1ac62db>)
 - [x] [Lesson 2](#lesson2)		[:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/c5073cbd-df85-45b2-b59e-2ca9379968c4)
@@ -14,10 +14,10 @@
 - [x] [Lesson 4](#lesson4)		[:page_facing_up:]( https://classroom.udacity.com/courses/ud9012/lessons/e487c600-ed68-4576-a35a-12f211cf032e/concepts/6a155d63-8153-4a56-95cb-1dfdf06aa173 )
 - [x] [Lesson 5](#lesson5)		[:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/bf448bba-9989-40fb-808f-4cc66f79c10e )
 - [x] [Lesson 6](#lesson6)        [:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/b373beae-39a3-4aac-a6dc-aa92aa9960fc)
-- [ ] [Lesson 7](#lesson7)
+- [x] [Lesson 7](#lesson7)        [:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/18898a03-2bd8-447d-bcb7-3d89b98e42a8)
 - [ ] [Lesson 8](#lesson8)
 - [ ] [Lesson 9](#lesson9)
-- [ ] [Lesson 10](#lesson10)
+- [x] ~~[Lesson 10](#lesson10)~~
 
 [Kurs](<https://classroom.udacity.com/courses/ud9012>)
 
@@ -170,3 +170,64 @@
 25. [Exercise: LiveData Map Transformation](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/3476947d-bca6-4e21-9d63-c8db042d8beb)
 26. [Optional Exercise: Adding the Buzzer](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/ad0bdde0-2764-406f-9b29-2aada4fd8e9b)
 27. [Recap of Architecture and Lifecy](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/a62349b8-4c41-4eac-b9a7-21e577b3d82d)
+
+
+
+
+
+#### <a name="lesson6"></a>Lesson 6
+
+1. [ Wake Up, Aleks!](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/b373beae-39a3-4aac-a6dc-aa92aa9960fc)
+2. [ 2. Introduction](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/bcb1d18d-31cc-4632-848c-64d4a11bd747)
+3. [ 3. SQLite Primer](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/b4fa1c8d-c340-4ae2-88a1-e3b51c99ccca)
+4. [ 4. Designing Entities](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/21216610-6a2a-4199-89c1-50cdf8c5ffbb)
+5. [ 5. Exercise: Creating the SleepNight Entity](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/a44e24f4-0dfd-417e-b980-fb2b23f60149)
+6. [ 6. Data Access Object (DAO)](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/83a0b727-34bd-4688-8295-58fd1a593bcb)
+7. [ 7. Exercise: DAO - SleepDatabaseDao](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/b74dc5e4-19ca-4acc-99f2-4c9245b3f05a)
+8. [ 8. Creating a Room Database](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/63b0fb8a-0cf0-4c07-94a1-ef666467a8a2)
+9. [ 9. Exercise: Creating a Room Database](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/5b079cb7-685d-48b5-bb59-b1f72d2ad5d0)
+10. [ 10. Testing the Room Database](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/15c00f79-ee50-40f2-8cf0-6f1ef6dcd453)
+11. [ 11. Displaying Sleep Data](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/ce594317-1cf6-4282-8ba6-71ddc94e73f1)
+12. [ 12. Adding A ViewModel](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/22e689b1-dd80-4c6d-837f-b2a55ce9f500)
+13. [ 13. Exercise: Adding a ViewModel](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/15877d76-9040-40d6-8978-a8209fa6f627)
+14. [ 14. Multithreading and Coroutines](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/f8c76b29-9f8e-4402-9ff9-d1ec4e3f9312)
+15. [ 15. Exercise: Coroutines for Long-running Operations](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/7e5d7478-eca3-466c-bc1b-7997dcab696d)
+16. [ 16. Googler Interview: Florina Muntenescu](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/28e584e7-3cfe-4fb5-b785-4ccdd305b066)
+17. [ 17. Navigation and Sleep Quality](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/f38b7813-7f9d-44c8-b928-b1df9e8ce68d)
+18. [ 18. Exercise: Recording Sleep Quality](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/f5efcedc-4db6-4a8d-a5a9-d454437363fe)
+19. [ 19. Transformation Maps](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/19f984a6-9410-4751-9354-d8041ffcce3a)
+20. [ 20. Exercise: Button States and SnackBar](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/e9a00f41-2dc1-46fa-8dde-2e0c25e64958)
+21. [ 21. Where to go next?](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/d8333d28-9748-42b2-bf2a-c17fd139ac0f)
+
+
+
+
+
+#### <a name="lesson7"></a>Lesson 7
+
+1. [ 1. Recycle Woman](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/18898a03-2bd8-447d-bcb7-3d89b98e42a8)
+2. [ 2. Introduction](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/771f758c-d57d-481d-82ba-e78df608a753)
+3. [ 3. Your first RecyclerView](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/e785570b-2a5c-4b62-88de-85ba8598b7a5)
+4. [ 4. Exercise: Add a RecyclerView](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/8d0a8eb2-251e-4682-a105-da17fbec8ccd)
+5. [ 5. Exercise: Display SleepQuality Data](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/25aa6e39-6fe1-4662-a01e-681f08ea7aa9)
+6. [ 6. Exercise: Recycling ViewHolders](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/973d1e05-be03-40c3-a44e-4f9f4214ca8d)
+7. [ 7. Displaying Sleep Quality](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/127f18c2-42cb-4318-b931-39e33722b884)
+8. [ 8. Exercise: Display the SleepQuality List](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/3314a9f7-d4c2-4b27-aceb-74544b5b742a)
+9. [ 9. Exercise: Refactor onBindViewHolder](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/50001bda-0197-49d6-803f-11153da86163)
+10. [ 10. Exercise: Refactor onCreateViewHolder](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/2a5cd87b-127a-4baf-b3f2-850f067b1a9e)
+11. [ 11. Improving Data Refresh](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/7047e569-b5a2-4767-a589-6fb4e8e367d4)
+12. [ 12. Exercise: Refresh Data with DiffUtil](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/9a6c1600-1f64-4acb-811a-b5d89649d4a1)
+13. [ 13. Exercise: Add DataBinding to the Adapter](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/f13214fb-2d67-4155-adee-ea7b36458c36)
+14. [ 14. Exercise: Add Binding Adapters](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/de8e9f87-6cd0-4ff4-a20b-da5ffae7279c)
+15. [ 15. Finishing Your First RecyclerView](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/9d35c3d9-94aa-4065-bba3-0ab8a5da7401)
+16. [ 16. Googler Interview: Romain Guy and Chet Haase](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/5ddb5a52-4f70-44b8-9416-e4b551e865be)
+17. [ 17. Using GridLayout](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/2b5d97fd-f93a-4003-84a0-8f0054c2574e)
+18. [ 18. Exercise: Change LinearLayout to GridLayout](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/32d5b916-e214-4701-be45-1e57471857d9)
+19. [ 19. Interacting with List Items](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/b6846b2c-d13a-4f7f-bf4e-6d4e70d8b7f9)
+20. [ 20. Exercise: Implement a Click Listener](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/a24d8fdb-64ab-419c-bb29-c1225e104fa9)
+21. [ 21. Exercise: Navigate on Click](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/3f63055c-ca61-4d3a-a706-cf429e454d05)
+22. [ 22. Adding Headers to the RecyclerView](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/5594e0a9-cf20-4b0d-a468-701bcfac272b)
+23. [ 23. Extra Credit: Add a List Header](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/f6f93918-d9a6-4dc7-a44e-d10532325516)
+24. [ 24. Headers in GridLayout](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/c6453593-455b-4143-9930-914f97cb7d9b)
+25. [ 25. Extra Credit: Add a Header to the GridLayout](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/3ccba545-c1a8-45ff-ac90-21e9089275f1)
+26. [ 26. Summary](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/be686e93-3573-49fc-8cd4-370611b0f975)
