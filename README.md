@@ -231,3 +231,4 @@
 24. [ 24. Headers in GridLayout](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/c6453593-455b-4143-9930-914f97cb7d9b)
 25. [ 25. Extra Credit: Add a Header to the GridLayout](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/3ccba545-c1a8-45ff-ac90-21e9089275f1)
 26. [ 26. Summary](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/be686e93-3573-49fc-8cd4-370611b0f975)
+
