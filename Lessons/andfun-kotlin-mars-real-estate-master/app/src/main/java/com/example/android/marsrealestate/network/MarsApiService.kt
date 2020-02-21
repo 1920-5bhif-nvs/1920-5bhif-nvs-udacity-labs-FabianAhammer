@@ -47,6 +47,7 @@ private val retrofit = Retrofit.Builder()
         .baseUrl(BASE_URL)
         .build()
 
+
 /**
  * A public interface that exposes the [getProperties] method
  */
