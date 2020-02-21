@@ -6,7 +6,7 @@
 
 **Status**
 
-:white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::black_square_button::white_square_button::white_square_button:
+:white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::white_check_mark::black_square_button:
 
 - [x] [Lesson 1](#lesson1)		[:page_facing_up:](<https://classroom.udacity.com/courses/ud9012/lessons/37a8fa57-7d18-4704-bfb7-da2864cb2e75/concepts/e1a098b4-d786-4a74-b3f9-bd73c1ac62db>)
 - [x] [Lesson 2](#lesson2)		[:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/c5073cbd-df85-45b2-b59e-2ca9379968c4)
@@ -15,13 +15,13 @@
 - [x] [Lesson 5](#lesson5)		[:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/da3967cc-ba85-4045-bb46-dea1c770fb8b/concepts/bf448bba-9989-40fb-808f-4cc66f79c10e )
 - [x] [Lesson 6](#lesson6)        [:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/fcd3f9aa-3632-4713-a299-ea39939d6fd7/concepts/b373beae-39a3-4aac-a6dc-aa92aa9960fc)
 - [x] [Lesson 7](#lesson7)        [:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/18898a03-2bd8-447d-bcb7-3d89b98e42a8)
-- [ ] [Lesson 8](#lesson8)
-- [ ] [Lesson 9](#lesson9)
+- [x] [Lesson 8](#lesson8)        [:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/9ab5e0ff-dc20-4968-8f78-2f437232cd51)
+- [x] [Lesson 9](#lesson9)        [:page_facing_up:](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/18898a03-2bd8-447d-bcb7-3d89b98e42a8)
 - [x] ~~[Lesson 10](#lesson10)~~
 
 [Kurs](<https://classroom.udacity.com/courses/ud9012>)
 
-
+https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/9ab5e0ff-dc20-4968-8f78-2f437232cd51
 
 #### <a name="lesson1"></a>Lesson 1
 
@@ -232,3 +232,55 @@
 25. [ 25. Extra Credit: Add a Header to the GridLayout](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/3ccba545-c1a8-45ff-ac90-21e9089275f1)
 26. [ 26. Summary](https://classroom.udacity.com/courses/ud9012/lessons/ee5a525f-0ba3-4d25-ba29-1fa1d6c567b8/concepts/be686e93-3573-49fc-8cd4-370611b0f975)
 
+
+
+
+
+#### <a name="lesson8"></a>Lesson 8
+
+1. [ 1. Greetings Earth Friends!](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/a844315f-256c-47ae-9eeb-28831e17bcda)
+2. [ 2. Introduction](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/dacaa021-22d9-4027-8581-a379383cf772)
+3. [ 3. RESTful Services](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/b2afef74-f805-4644-92bd-84d9944bd7c1)
+4. [ 4. Libraries](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/0d54650a-7d20-4da4-a7b2-04e9c000ab22)
+5. [ 5. App Walkthrough and Starter Code](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/4b4fdee5-8440-47b0-8cfb-d479410129fe)
+6. [ 6. Exercise: Connecting to the Internet](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/bef51cd0-1e3b-4350-8b75-c234aa400e14)
+7. [ 7. Permissions](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/fdd67425-6145-4c40-b141-e8188438cfd1)
+8. [ 8. Exercise: Parsing the JSON Response](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/80db996b-1f75-400d-814c-cabe8dbc154a)
+9. [ 9. Exercise: Coroutines and Deferred](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/b36af08e-1bce-48e8-9a31-2e268907d2f0)
+10. [ 10. Googler Interview: Jake Wharton](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/175c2325-86e2-443a-be63-af2cbb0e9657)
+11. [ 11. Exercise: Display an Internet Image](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/2a8f9f52-a210-4ecd-8fb3-b9909b271138)
+12. [ 12. Exercise: Display Images in a Grid](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/cdc3ee7e-ab78-45c3-928c-4592bc14b36c)
+13. [ 13. Exercise: Error Handling with RecyclerView](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/961a272f-8ba9-44ce-a7ac-ce08264e5d8e)
+14. [ 14. Parcel and Parcelables](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/7aff65f5-f1c4-44a0-bf8c-07cb0bdf9ed6)
+15. [ 15. Exercise: Add the Detail Screen](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/28d1ca47-364e-49b2-8384-fb00393919ab)
+16. [ 16. Exercise: Add a Filter](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/89f3fb88-8d12-4131-986c-f26c833cb2a6)
+17. [ 17. Summary](https://classroom.udacity.com/courses/ud9012/lessons/2be0ed85-721d-4a8d-a484-909b5c98336c/concepts/9ab5e0ff-dc20-4968-8f78-2f437232cd51)
+
+
+
+
+
+
+
+#### <a name="lesson9"></a>Lesson 9
+
+1. [ 1. Offline Movie Night](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/6df1a856-629b-4456-ab37-60f3e87101fe)
+2. [ 2. Exercise: Introduction](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/22bc4993-1a1a-4222-91e1-71ebd6324798)
+3. [ 3. What’s in a Cache](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/40db2ecc-33be-4ea4-b565-b51e8a9b1091)
+4. [ 4. How to store data](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/8ebf6a29-e39e-4c89-ad6d-c9eb006d39fc)
+5. [ 5. Decorating a Room](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/bfe89b7e-0eab-4795-9776-17132d1a5bdc)
+6. [ 6. Building a Room](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/bcacb6d3-d2d9-478b-ab68-2468e0ac22f7)
+7. [ 7. Exercise: Add a DatabaseVideo Entity](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/fc0ea15c-716d-46c2-9de2-312b75e99173)
+8. [ 8. Exercise: Add the VideoDao](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/4872f984-759b-48bb-bf95-d281b05b7f45)
+9. [ 9. Exercise: Refactor the VideoDao](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/08f5fcf6-3e1b-4c82-aab9-3c7d3bd894c6)
+10. [ 10. Exercise: Add the VideosDatabase](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/b19843b5-a8fd-464e-86d0-dbdcced9c746)
+11. [ 11. Room Review](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/68a594e1-a85b-44b7-9419-2b349f8995e8)
+12. [ 12. Googler Interview: Sumir Kataria](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/968c18a3-8fed-4d81-bf38-a7ffa6098440)
+13. [ 13. Using a Room](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/2de818a8-3cc4-4de1-b317-18e6edeb30e2)
+14. [ 14. Exercise: Build a Repository](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/73c8fc9e-fe51-4386-968d-2f84bec5c1fe)
+15. [ 15. Exercise: Use the Repository](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/ebc2fa27-2f2a-434d-8638-52911f3b7bd9)
+16. [ 16. Video: Offline Caching Review](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/ea146f7d-5097-4616-8af1-6d1fc088e09e)
+17. [ 17. WorkManager for the background](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/ccd9b1c5-0a96-444e-8263-11ec8ab44c1b)
+18. [ 18. Exercise: Create a Worker](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/21422bfd-b52d-4162-badd-9c6d26d446c2)
+19. [ 19. Exercise: Schedule Background Work](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/3ea651b5-f988-40ad-b083-416850a599f7)
+20. [ 20. Wrapping up Caching](https://classroom.udacity.com/courses/ud9012/lessons/c5e4185e-3e76-47fb-962e-ba27c21d36d7/concepts/ce4a8c8f-9de5-4534-b91d-1b2dde09547e)
